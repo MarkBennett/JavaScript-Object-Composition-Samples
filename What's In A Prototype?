@@ -1,1 +1,1 @@
-{} = new Objects;
+{} = new Object();

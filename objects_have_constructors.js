@@ -1,3 +1,5 @@
-o = {}
+a = {};
+a.constructor; // function Object() { ... }
 
-o.constructor;               // function Object() { [native code] }
+b = new Object();
+b.constructor; // function Object() { ... }

@@ -4,3 +4,4 @@ function Human() {
 
 bob = new Human();
 bob.breathes;             // "air"
+bob.constructor; // function Human() { ... }

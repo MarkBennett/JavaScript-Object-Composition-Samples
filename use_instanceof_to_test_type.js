@@ -1,4 +1,4 @@
-bob = new Human("bob", 30);
+bob = new Human();
 obj = {};
 
 bob instanceof Object  // true

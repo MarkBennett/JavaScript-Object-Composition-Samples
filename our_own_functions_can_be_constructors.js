@@ -1,6 +1,6 @@
 function Human() {
-  this.breathes = "air"; // this is a new object
-  return this;           // new Human() returns this
+  this.breathes = "air"; // this == a new object
+  return this;           // new Human() == this
 }
 
 bob = new Human();
